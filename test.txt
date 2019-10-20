@@ -1,5 +1,0 @@
-window.onload	=	function (id){
-	document.gitElementBiId(id);
-	alert(id);
-	console.log(id);
-}
